@@ -37,4 +37,8 @@ To get started with this project locally, follow these steps:
 - **Tailwind CSS**: For providing a beautiful and flexible CSS framework.
 - **Netflix**: For the inspiration behind the design and content.
 
-`[video](https://drive.google.com/file/d/11nPEhZWt4k9AViSN0J0gxq18iHjwqsCi/view?usp=sharing)`
+## Video
+
+Check out this video for an overview of the Netflix India Landing Page:
+
+[![Watch the video](https://via.placeholder.com/600x400.png?text=Watch+the+Video)](https://drive.google.com/file/d/11nPEhZWt4k9AViSN0J0gxq18iHjwqsCi/view?usp=sharing)
